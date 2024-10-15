@@ -23,7 +23,10 @@
  ], 		
     "whiteListMode":{
     "enable": false,
-    "whiteListIds":["61558651089120"],
+    "whiteListIds": [
+    "61558651089120",
+    "",
+    ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "authorName": "ALAMIN",
